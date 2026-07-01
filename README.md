@@ -49,6 +49,3 @@ Chromedriver — драйвер для управления браузером C
 
 Генерация HTML-отчёта
 Для наглядного отчёта выполните: pytest --html=report.html
-
-Генерация Allure-отчёта
-Для наглядного отчёта выполните: pytest --allure-serve=allure-results
